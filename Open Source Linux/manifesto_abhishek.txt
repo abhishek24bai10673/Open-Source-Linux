@@ -1,0 +1,5 @@
+On Mon Mar 30 18:12:06 UTC 2026, I, Abhishek Mishra, believe that open source is about Power.
+Using tools like Git, we encourage innovation and collaboration.
+I aspire to build a decentralised peer to peer platforms and share it freely with everyone.
+Open source is not just code, it is a culture of sharing and learning.
+Python — licensed under the PSF License — proves that free software can change the world.
