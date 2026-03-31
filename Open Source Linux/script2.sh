@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: Package Check and Details
-# Author: Mridul Hari Tripathi | Course: Open Source Software
+# Author: Abhishek Mishra | Course: Open Source Software
 
 # --- Variable ---
 PACKAGE="python3"
