@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Mridul Hari Tripathi | Course: Open Source Software
+# Author: Abhishek Mishra | Course: Open Source Software
 
 echo "================================"
 echo " Directory Audit Report"
