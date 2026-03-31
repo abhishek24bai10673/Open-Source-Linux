@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analysis
-# Author: Mridul Hari Tripathi | Course: Open Source Software
+# Author: Abhishek Mishra | Course: Open Source Software
 
 LOGFILE="/var/log/syslog"
 KEYWORD="python"
