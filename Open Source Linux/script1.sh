@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Azhaan Ali Siddiqui | Reg: 24BSA10234
+# Author: Abhishek Mishra | Reg: 24BAI10673
 # Course: Open Source Software (NGMC) | VITyarthi
 # Purpose: Display a welcome screen summarising key Linux
 #          system information and the OS license.
