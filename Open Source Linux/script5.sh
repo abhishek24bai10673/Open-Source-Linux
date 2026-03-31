@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Mridul Hari Tripathi | Course: Open Source Software
+# Author: Abhishek Mishra | Course: Open Source Software
 
 echo "================================"
 echo " Open Source Manifesto Generator"
